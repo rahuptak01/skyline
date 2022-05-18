@@ -1,4 +1,4 @@
-name: CI
+name: CI Rahup tak
 
 on: [ push, pull_request ]
 
